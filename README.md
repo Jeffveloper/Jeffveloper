@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson Araujo Sumari</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-- 🔭 I’m currently working on **InkaCode**
 
 - 🌱 I’m currently learning **everything about Frontend technologies**
 
